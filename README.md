@@ -1,16 +1,32 @@
-# adv_app
+# QuizMaster 🧠📱
 
-A new Flutter project.
+**QuizMaster** is a mobile quiz app built with **Flutter & Dart** that evaluates user responses in real time and displays the correct answers at the end. It provides an interactive and educational experience for users looking to test their knowledge in a fun and engaging way.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ **Multiple Choice Questions**: Users are presented with a series of questions with multiple options.
+- ⚡ **Real-time Answer Evaluation**: Answers are tracked as users respond.
+- 📊 **Final Score Display**: Shows the number of correct answers and overall performance at the end.
+- 🎯 **Correct Answer Review**: Displays the correct answers for all questions after quiz completion.
+- 🎨 **Responsive UI**: Designed with a clean and intuitive user interface using Flutter widgets.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK (>= 3.0)
+- Dart SDK
+- Android Studio or VS Code
+- An Android/iOS emulator or real device
+
+### Installation
+
+```bash
+git clone https://github.com/vitch07/QuizMaster.git
+cd QuizMaster/adv_app
+flutter pub get
+flutter run
